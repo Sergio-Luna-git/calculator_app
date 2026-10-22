@@ -53,3 +53,42 @@
 {"_e":"metro:bundling:progress","_t":1792665359083,"id":"4","progress":0.999,"total":1404,"current":1404}
 {"_e":"metro:bundling:done","_t":1792665359383,"id":"4","total":1404,"ms":5312.938325}
 {"_e":"metro:client_log","_t":1792665361006,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"root:init","_t":1792666713452,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1792666713453,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1792666713454,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1792666713763,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1792666714066,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1792666714253,"plugins":[]}
+{"_e":"metro:instantiate","_t":1792666714921,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1792668534239,"id":"3","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792668534241,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792668534252,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1792668534375,"id":"3","progress":0.10749798441279225,"total":61,"current":20}
+{"_e":"metro:bundling:progress","_t":1792668534475,"id":"3","progress":0.10749798441279225,"total":180,"current":41}
+{"_e":"metro:bundling:progress","_t":1792668534575,"id":"3","progress":0.10749798441279225,"total":288,"current":80}
+{"_e":"metro:bundling:progress","_t":1792668534676,"id":"3","progress":0.1755803887100931,"total":389,"current":163}
+{"_e":"metro:bundling:progress","_t":1792668534776,"id":"3","progress":0.3208601450315118,"total":602,"current":341}
+{"_e":"metro:bundling:progress","_t":1792668534876,"id":"3","progress":0.3434660234839916,"total":703,"current":412}
+{"_e":"metro:bundling:progress","_t":1792668534981,"id":"3","progress":0.40375434027777773,"total":864,"current":549}
+{"_e":"metro:bundling:progress","_t":1792668535081,"id":"3","progress":0.6991505347987969,"total":946,"current":791}
+{"_e":"metro:bundling:progress","_t":1792668535192,"id":"3","progress":0.8767930274736226,"total":1053,"current":986}
+{"_e":"metro:bundling:progress","_t":1792668535308,"id":"3","progress":0.9736202889068716,"total":1205,"current":1189}
+{"_e":"metro:bundling:progress","_t":1792668535408,"id":"3","progress":0.9970566609043447,"total":1358,"current":1356}
+{"_e":"metro:bundling:progress","_t":1792668535690,"id":"3","progress":0.9985277882010494,"total":1358,"current":1357}
+{"_e":"metro:bundling:done","_t":1792668535886,"id":"3","total":1358,"ms":1646.642467}
+{"_e":"metro:client_log","_t":1792668537171,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1792668546144,"id":"5","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792668546144,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792668546233,"id":"5","total":1,"ms":89.241388}
+{"_e":"metro:client_log","_t":1792668547485,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1792668807282,"level":"warn","data":["Route \"./components/ThemeText.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1792668807283,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1792668824599,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1792669202345,"id":"9","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792669202346,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792669202405,"id":"9","total":1,"ms":59.191229}
+{"_e":"metro:client_log","_t":1792669204034,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1792669327027,"id":"b","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1792669327027,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1792669327117,"id":"b","total":1,"ms":90.078098}
+{"_e":"metro:client_log","_t":1792669328494,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}

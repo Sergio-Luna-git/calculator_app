@@ -5,5 +5,5 @@ export const Colors = {
 
     textPrimary: 'white',
     textSecondary: '#666666',
-    backgroud: '#000000',
+    background: '#000000',
 };
