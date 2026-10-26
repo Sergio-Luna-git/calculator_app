@@ -1,7 +1,8 @@
 import { useFonts } from 'expo-font';
 import { Slot } from 'expo-router';
-import { StatusBar, View } from 'react-native';
+import { Platform, StatusBar, View } from 'react-native';
 import { globalStyles } from '../../styles/global-styles';
+import { NavigationBar } from 'expo-navigation-bar';
 
 const RootLayout = () => {
 
@@ -11,6 +12,11 @@ const RootLayout = () => {
 
   if (!loaded) {
     return null;
+  }
+
+  const isAndroid = Platform.OS == 'android';
+  if (isAndroid) {
+    NavigationBar.setStyle('dark');
   }
 
   return (

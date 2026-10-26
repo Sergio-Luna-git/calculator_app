@@ -92,3 +92,212 @@
 {"_e":"metro:bundling:progress","_t":1792669327027,"id":"b","progress":0,"total":1,"current":0}
 {"_e":"metro:bundling:done","_t":1792669327117,"id":"b","total":1,"ms":90.078098}
 {"_e":"metro:client_log","_t":1792669328494,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"root:init","_t":1793002380959,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1793002380960,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1793002380962,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1793002381373,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1793002381724,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1793002382012,"plugins":[]}
+{"_e":"metro:instantiate","_t":1793002382827,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1793002420436,"id":"4","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793002420437,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793002420443,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793002420964,"id":"4","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1793002421066,"id":"4","progress":0.1322314049586777,"total":11,"current":4}
+{"_e":"metro:bundling:progress","_t":1793002421167,"id":"4","progress":0.1322314049586777,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1793002421224,"id":"4","progress":0.1322314049586777,"total":16,"current":5}
+{"_e":"metro:bundling:progress","_t":1793002421323,"id":"4","progress":0.17728531855955676,"total":19,"current":8}
+{"_e":"metro:bundling:progress","_t":1793002421444,"id":"4","progress":0.17728531855955676,"total":25,"current":10}
+{"_e":"metro:bundling:progress","_t":1793002421546,"id":"4","progress":0.17728531855955676,"total":144,"current":13}
+{"_e":"metro:bundling:progress","_t":1793002421651,"id":"4","progress":0.17728531855955676,"total":157,"current":22}
+{"_e":"metro:bundling:progress","_t":1793002421751,"id":"4","progress":0.17728531855955676,"total":188,"current":28}
+{"_e":"metro:bundling:progress","_t":1793002421863,"id":"4","progress":0.17728531855955676,"total":204,"current":40}
+{"_e":"metro:bundling:progress","_t":1793002421963,"id":"4","progress":0.17728531855955676,"total":226,"current":51}
+{"_e":"metro:bundling:progress","_t":1793002422065,"id":"4","progress":0.17728531855955676,"total":247,"current":66}
+{"_e":"metro:bundling:progress","_t":1793002422166,"id":"4","progress":0.17728531855955676,"total":280,"current":100}
+{"_e":"metro:bundling:progress","_t":1793002422271,"id":"4","progress":0.17728531855955676,"total":342,"current":137}
+{"_e":"metro:bundling:progress","_t":1793002422374,"id":"4","progress":0.17728531855955676,"total":385,"current":162}
+{"_e":"metro:bundling:progress","_t":1793002422475,"id":"4","progress":0.24179423123138227,"total":423,"current":208}
+{"_e":"metro:bundling:progress","_t":1793002422577,"id":"4","progress":0.290308307235461,"total":451,"current":243}
+{"_e":"metro:bundling:progress","_t":1793002422678,"id":"4","progress":0.3144167254011703,"total":494,"current":277}
+{"_e":"metro:bundling:progress","_t":1793002422778,"id":"4","progress":0.3426531826293872,"total":533,"current":312}
+{"_e":"metro:bundling:progress","_t":1793002422883,"id":"4","progress":0.36973527083417185,"total":546,"current":332}
+{"_e":"metro:bundling:progress","_t":1793002422983,"id":"4","progress":0.37518215992281284,"total":591,"current":362}
+{"_e":"metro:bundling:progress","_t":1793002423085,"id":"4","progress":0.37518215992281284,"total":639,"current":384}
+{"_e":"metro:bundling:progress","_t":1793002423186,"id":"4","progress":0.38850043829433695,"total":661,"current":412}
+{"_e":"metro:bundling:progress","_t":1793002423288,"id":"4","progress":0.4192611478963016,"total":661,"current":428}
+{"_e":"metro:bundling:progress","_t":1793002423390,"id":"4","progress":0.45915794163510804,"total":670,"current":454}
+{"_e":"metro:bundling:progress","_t":1793002423490,"id":"4","progress":0.4838429930795847,"total":680,"current":473}
+{"_e":"metro:bundling:progress","_t":1793002423590,"id":"4","progress":0.5356542743121193,"total":690,"current":505}
+{"_e":"metro:bundling:progress","_t":1793002423691,"id":"4","progress":0.589017930366442,"total":701,"current":538}
+{"_e":"metro:bundling:progress","_t":1793002423791,"id":"4","progress":0.6141980179270293,"total":712,"current":558}
+{"_e":"metro:bundling:progress","_t":1793002423893,"id":"4","progress":0.6422397183236345,"total":715,"current":573}
+{"_e":"metro:bundling:progress","_t":1793002423996,"id":"4","progress":0.6504346106448937,"total":739,"current":596}
+{"_e":"metro:bundling:progress","_t":1793002424098,"id":"4","progress":0.6618787704682564,"total":767,"current":624}
+{"_e":"metro:bundling:progress","_t":1793002424198,"id":"4","progress":0.6618787704682564,"total":818,"current":651}
+{"_e":"metro:bundling:progress","_t":1793002424301,"id":"4","progress":0.6618787704682564,"total":849,"current":677}
+{"_e":"metro:bundling:progress","_t":1793002424402,"id":"4","progress":0.6911955860011298,"total":854,"current":710}
+{"_e":"metro:bundling:progress","_t":1793002424505,"id":"4","progress":0.7080131708676269,"total":864,"current":727}
+{"_e":"metro:bundling:progress","_t":1793002424605,"id":"4","progress":0.7080131708676269,"total":885,"current":740}
+{"_e":"metro:bundling:progress","_t":1793002424725,"id":"4","progress":0.7080131708676269,"total":910,"current":752}
+{"_e":"metro:bundling:progress","_t":1793002424826,"id":"4","progress":0.7080131708676269,"total":936,"current":787}
+{"_e":"metro:bundling:progress","_t":1793002424927,"id":"4","progress":0.7099622770919066,"total":972,"current":819}
+{"_e":"metro:bundling:progress","_t":1793002425027,"id":"4","progress":0.7099622770919066,"total":1002,"current":842}
+{"_e":"metro:bundling:progress","_t":1793002425130,"id":"4","progress":0.7286919920796971,"total":1018,"current":869}
+{"_e":"metro:bundling:progress","_t":1793002425231,"id":"4","progress":0.751664110253886,"total":1045,"current":906}
+{"_e":"metro:bundling:progress","_t":1793002425331,"id":"4","progress":0.8088038607190237,"total":1053,"current":947}
+{"_e":"metro:bundling:progress","_t":1793002425433,"id":"4","progress":0.8367019795536013,"total":1067,"current":976}
+{"_e":"metro:bundling:progress","_t":1793002425533,"id":"4","progress":0.8714558666676897,"total":1083,"current":1011}
+{"_e":"metro:bundling:progress","_t":1793002425633,"id":"4","progress":0.9025862872576413,"total":1101,"current":1046}
+{"_e":"metro:bundling:progress","_t":1793002425733,"id":"4","progress":0.9139090706209085,"total":1136,"current":1086}
+{"_e":"metro:bundling:progress","_t":1793002425834,"id":"4","progress":0.9389976922689529,"total":1162,"current":1126}
+{"_e":"metro:bundling:progress","_t":1793002425935,"id":"4","progress":0.9434392636507682,"total":1185,"current":1151}
+{"_e":"metro:bundling:progress","_t":1793002426035,"id":"4","progress":0.9434392636507682,"total":1244,"current":1194}
+{"_e":"metro:bundling:progress","_t":1793002426135,"id":"4","progress":0.9434392636507682,"total":1313,"current":1244}
+{"_e":"metro:bundling:progress","_t":1793002426237,"id":"4","progress":0.9434392636507682,"total":1335,"current":1288}
+{"_e":"metro:bundling:progress","_t":1793002426337,"id":"4","progress":0.9721319183381371,"total":1354,"current":1335}
+{"_e":"metro:bundling:progress","_t":1793002426439,"id":"4","progress":0.9769957374147077,"total":1383,"current":1367}
+{"_e":"metro:bundling:progress","_t":1793002426540,"id":"4","progress":0.978686224489796,"total":1400,"current":1385}
+{"_e":"metro:bundling:progress","_t":1793002426639,"id":"4","progress":0.9971489679508181,"total":1402,"current":1400}
+{"_e":"metro:bundling:progress","_t":1793002426740,"id":"4","progress":0.999,"total":1406,"current":1406}
+{"_e":"metro:bundling:done","_t":1793002426945,"id":"4","total":1406,"ms":6508.898775}
+{"_e":"metro:client_log","_t":1793002428991,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:bundling:started","_t":1793002660131,"id":"7","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793002660131,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1793002660231,"id":"7","total":1,"ms":100.013318}
+{"_e":"metro:client_log","_t":1793002662025,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793002778709,"level":"warn","data":["Route \"./components/CalculatorButton.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793002778710,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793003133196,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `CalculatorApp`.]","\n\n\u001b[1mCode: ReactFabric-dev.js\u001b[22m\n\u001b[0m \u001b[90m 15595 |\u001b[39m                 \u001b[32m\"\\n\\nCheck the render method of `\"\u001b[39m \u001b[33m+\u001b[39m fiberTag \u001b[33m+\u001b[39m \u001b[32m\"`.\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 15596 |\u001b[39m             fiberTag \u001b[33m=\u001b[39m \u001b[35m29\u001b[39m\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 15597 |\u001b[39m             pendingProps \u001b[33m=\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m       |\u001b[39m                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 15598 |\u001b[39m               \u001b[32m\"Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: \"\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 15599 |\u001b[39m                 (pendingProps \u001b[33m+\u001b[39m \u001b[32m\".\"\u001b[39m \u001b[33m+\u001b[39m resolvedType)\n \u001b[90m 15600 |\u001b[39m             )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromTypeAndProps (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15597:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromElement (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15611:41)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createChild (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4227:48)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildrenArray (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4557:36)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildFibersImpl (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4874:52)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4979:57)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildren (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:7742:29)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  beginWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:9417:30)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  run (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:697:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:14134:39)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  workLoopSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13966:58)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  renderRootSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13947:23)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performWorkOnRoot (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13160:43)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performSyncWorkOnRoot (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3688:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  flushSyncWorkAcrossRoots_impl (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3538:42)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  flushSyncWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13426:41)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  scheduleRefresh (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:157:22)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  renderer.scheduleRefresh (node_modules/react-devtools-core/dist/backend.js:11094:37)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  mountedRootsSnapshot.forEach$argument_0 (node_modules/react-refresh/cjs/react-refresh-runtime.development.js:265:32)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  forEach (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performReactRefresh (node_modules/react-refresh/cjs/react-refresh-runtime.development.js:254:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  Refresh.performReactRefresh (node_modules/react-native/Libraries/Core/setUpReactRefresh.js:39:46)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m 15 |\u001b[39m\n \u001b[90m 16 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{globalStyles\u001b[33m.\u001b[39mrow}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 17 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'C'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'+/-'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'del'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'/'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CalculatorApp (src/app/index.tsx:17:9)\u001b[39m\n\u001b[90m  RootLayout (src/app/_layout.tsx:13:16)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1793003134098,"level":"warn","data":["Route \"./components/CalculatorButton.tsx\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793003134099,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793003134452,"level":"error","data":["[Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.\n\nCheck the render method of `CalculatorApp(./index.tsx)`.]","\n\n\u001b[1mCode: ReactFabric-dev.js\u001b[22m\n\u001b[0m \u001b[90m 15595 |\u001b[39m                 \u001b[32m\"\\n\\nCheck the render method of `\"\u001b[39m \u001b[33m+\u001b[39m fiberTag \u001b[33m+\u001b[39m \u001b[32m\"`.\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 15596 |\u001b[39m             fiberTag \u001b[33m=\u001b[39m \u001b[35m29\u001b[39m\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 15597 |\u001b[39m             pendingProps \u001b[33m=\u001b[39m \u001b[33mError\u001b[39m(\n \u001b[90m       |\u001b[39m                                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 15598 |\u001b[39m               \u001b[32m\"Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: \"\u001b[39m \u001b[33m+\u001b[39m\n \u001b[90m 15599 |\u001b[39m                 (pendingProps \u001b[33m+\u001b[39m \u001b[32m\".\"\u001b[39m \u001b[33m+\u001b[39m resolvedType)\n \u001b[90m 15600 |\u001b[39m             )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromTypeAndProps (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15597:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createFiberFromElement (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15611:41)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  createChild (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4227:48)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildrenArray (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4557:36)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildFibersImpl (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4874:52)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:4979:57)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  reconcileChildren (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:7742:29)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  beginWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:9417:30)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  run (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:697:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performUnitOfWork (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:14134:39)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  workLoopSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13966:58)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  renderRootSync (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13947:23)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performWorkOnRoot (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:13160:43)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  performWorkOnRootViaSchedulerTask (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:3673:24)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m 15 |\u001b[39m\n \u001b[90m 16 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{globalStyles\u001b[33m.\u001b[39mrow}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 17 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'C'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'+/-'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'del'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'/'\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CalculatorApp (src/app/index.tsx:17:9)\u001b[39m\n\u001b[90m  RootLayout (src/app/_layout.tsx:13:16)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1793003150007,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793004204971,"level":"error","data":["[ReferenceError: Property 'Colors' doesn't exist]","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m 15 |\u001b[39m\n \u001b[90m 16 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{globalStyles\u001b[33m.\u001b[39mrow}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 17 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'C'\u001b[39m} blackText color\u001b[33m=\u001b[39m{\u001b[33mColors\u001b[39m\u001b[33m.\u001b[39mlightGrey} onPress\u001b[33m=\u001b[39m{() \u001b[33m=>\u001b[39m console\u001b[33m.\u001b[39mlog(\u001b[32m'C'\u001b[39m)} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m                                                        \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 18 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'+/-'\u001b[39m} blackText \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 19 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'del'\u001b[39m} blackText \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 20 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mCalculatorButton\u001b[39m label\u001b[33m=\u001b[39m{\u001b[32m'/'\u001b[39m} blackText \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CalculatorApp (src/app/index.tsx:17:56)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 11 |\u001b[39m\n \u001b[90m 12 |\u001b[39m   \u001b[36mif\u001b[39m (\u001b[33m!\u001b[39mloaded) {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 13 |\u001b[39m     \u001b[36mreturn\u001b[39m \u001b[36mnull\u001b[39m\u001b[33m;\u001b[39m\n \u001b[90m    |\u001b[39m                \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 14 |\u001b[39m   }\n \u001b[90m 15 |\u001b[39m\n \u001b[90m 16 |\u001b[39m   \u001b[36mreturn\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  RootLayout (src/app/_layout.tsx:13:16)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1793004299954,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793004304218,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793004304835,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793004305585,"level":"log","data":["+/-"]}
+{"_e":"metro:client_log","_t":1793004306135,"level":"log","data":["C"]}
+{"_e":"metro:client_log","_t":1793004306786,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793004307869,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793004308869,"level":"log","data":["/"]}
+{"_e":"root:init","_t":1793004927329,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1793004927330,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1793004927331,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1793004927548,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1793004927976,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1793004928310,"plugins":[]}
+{"_e":"metro:instantiate","_t":1793004929503,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1793004957475,"id":"1","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793004957476,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793004957485,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793004957592,"id":"1","progress":0.10749798441279225,"total":61,"current":20}
+{"_e":"metro:bundling:progress","_t":1793004957691,"id":"1","progress":0.10749798441279225,"total":266,"current":64}
+{"_e":"metro:bundling:progress","_t":1793004957791,"id":"1","progress":0.3133671143096577,"total":577,"current":323}
+{"_e":"metro:bundling:progress","_t":1793004957891,"id":"1","progress":0.35377125401495924,"total":844,"current":502}
+{"_e":"metro:bundling:progress","_t":1793004957991,"id":"1","progress":0.5801968769524461,"total":961,"current":732}
+{"_e":"metro:bundling:progress","_t":1793004958091,"id":"1","progress":0.7954711468224982,"total":1036,"current":924}
+{"_e":"metro:bundling:progress","_t":1793004958191,"id":"1","progress":0.9494553600000001,"total":1250,"current":1218}
+{"_e":"metro:bundling:progress","_t":1793004958296,"id":"1","progress":0.999,"total":1407,"current":1407}
+{"_e":"metro:bundling:done","_t":1793004958342,"id":"1","total":1407,"ms":866.704471}
+{"_e":"metro:client_log","_t":1793004959739,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"root:init","_t":1793005178567,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1793005178568,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1793005178569,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1793005178722,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1793005178846,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1793005178957,"plugins":[]}
+{"_e":"metro:instantiate","_t":1793005179575,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1793005187230,"id":"1","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793005187231,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793005187239,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793005187341,"id":"1","progress":0.01602307322544464,"total":158,"current":20}
+{"_e":"metro:bundling:progress","_t":1793005187440,"id":"1","progress":0.17361111111111113,"total":396,"current":165}
+{"_e":"metro:bundling:progress","_t":1793005187540,"id":"1","progress":0.3462033820427315,"total":758,"current":446}
+{"_e":"metro:bundling:progress","_t":1793005187640,"id":"1","progress":0.5621040823631342,"total":947,"current":710}
+{"_e":"metro:bundling:progress","_t":1793005187740,"id":"1","progress":0.8395673336938887,"total":1075,"current":985}
+{"_e":"metro:bundling:progress","_t":1793005187840,"id":"1","progress":0.8869165161991163,"total":1305,"current":1229}
+{"_e":"metro:bundling:progress","_t":1793005187941,"id":"1","progress":0.9985790410320213,"total":1407,"current":1406}
+{"_e":"metro:bundling:progress","_t":1793005188045,"id":"1","progress":0.999,"total":1407,"current":1407}
+{"_e":"metro:bundling:progress","_t":1793005188146,"id":"1","progress":0.999,"total":1410,"current":1409}
+{"_e":"metro:bundling:progress","_t":1793005188389,"id":"1","progress":0.999,"total":1410,"current":1410}
+{"_e":"metro:bundling:done","_t":1793005188510,"id":"1","total":1410,"ms":1279.864535}
+{"_e":"metro:client_log","_t":1793005190215,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793005193589,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005194169,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005194486,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005195823,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005196002,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005196186,"level":"log","data":["/"]}
+{"_e":"metro:client_log","_t":1793005196802,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793005197019,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793005197186,"level":"log","data":["del"]}
+{"_e":"metro:client_log","_t":1793005197369,"level":"log","data":["del"]}
+{"_e":"root:init","_t":1793006280239,"format":"v0-jsonl","version":"57.0.31"}
+{"_e":"env:mode","_t":1793006280240,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1793006280242,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1793006280671,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../src/app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1793006280998,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1793006281301,"plugins":[]}
+{"_e":"metro:instantiate","_t":1793006282047,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1793006556174,"id":"2","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1793006556176,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793006556190,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1793006556295,"id":"2","progress":0.01582215893358649,"total":159,"current":20}
+{"_e":"metro:bundling:progress","_t":1793006556395,"id":"2","progress":0.1379591836734694,"total":350,"current":130}
+{"_e":"metro:bundling:progress","_t":1793006556495,"id":"2","progress":0.3271256565173971,"total":549,"current":314}
+{"_e":"metro:bundling:progress","_t":1793006556595,"id":"2","progress":0.34788306068432673,"total":707,"current":417}
+{"_e":"metro:bundling:progress","_t":1793006556695,"id":"2","progress":0.4684711032891371,"total":881,"current":603}
+{"_e":"metro:bundling:progress","_t":1793006556795,"id":"2","progress":0.7198182825484765,"total":950,"current":806}
+{"_e":"metro:bundling:progress","_t":1793006556895,"id":"2","progress":0.8617376950890033,"total":1046,"current":971}
+{"_e":"metro:bundling:progress","_t":1793006557005,"id":"2","progress":0.9801,"total":1200,"current":1188}
+{"_e":"metro:bundling:progress","_t":1793006557105,"id":"2","progress":0.9985212571338538,"total":1352,"current":1351}
+{"_e":"metro:bundling:progress","_t":1793006557206,"id":"2","progress":0.9985212571338538,"total":1415,"current":1413}
+{"_e":"metro:bundling:progress","_t":1793006557344,"id":"2","progress":0.9985870718825307,"total":1415,"current":1414}
+{"_e":"metro:bundling:progress","_t":1793006557666,"id":"2","progress":0.999,"total":1415,"current":1415}
+{"_e":"metro:bundling:done","_t":1793006557792,"id":"2","total":1415,"ms":1616.906598}
+{"_e":"metro:client_log","_t":1793006560533,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793006560534,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793007274306,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793007274309,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793007363697,"level":"log","data":["2"]}
+{"_e":"metro:client_log","_t":1793007364098,"level":"log","data":["6"]}
+{"_e":"metro:client_log","_t":1793007745617,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793007745618,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793010991691,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793010991691,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793010991720,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793010991720,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793010991791,"level":"error","data":["[TypeError: Cannot read property 'buildNumber' of undefined]","\n\n\u001b[1mCode: index.tsx\u001b[22m\n\u001b[0m \u001b[90m  8 |\u001b[39m \u001b[36mconst\u001b[39m \u001b[33mCalculatorApp\u001b[39m \u001b[33m=\u001b[39m () \u001b[33m=>\u001b[39m {\n \u001b[90m  9 |\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 10 |\u001b[39m   \u001b[36mconst\u001b[39m { formula\u001b[33m,\u001b[39m buildNumber } \u001b[33m=\u001b[39m useCalculator()\n \u001b[90m    |\u001b[39m   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 11 |\u001b[39m\n \u001b[90m 12 |\u001b[39m\n \u001b[90m 13 |\u001b[39m   \u001b[36mreturn\u001b[39m (\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  CalculatorApp (src/app/index.tsx:10:3)\u001b[39m","\n\n\u001b[1mCode: _layout.tsx\u001b[22m\n\u001b[0m \u001b[90m 22 |\u001b[39m   \u001b[36mreturn\u001b[39m (\n \u001b[90m 23 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33mView\u001b[39m style\u001b[33m=\u001b[39m{globalStyles\u001b[33m.\u001b[39mbackground}\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 24 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mSlot\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m       \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 25 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33mStatusBar\u001b[39m barStyle\u001b[33m=\u001b[39m{\u001b[32m\"light-content\"\u001b[39m} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 26 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mView\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 27 |\u001b[39m   )\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  RootLayout (src/app/_layout.tsx:24:7)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1793011071173,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011071175,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011435880,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011435881,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011443362,"level":"log","data":["9"]}
+{"_e":"metro:client_log","_t":1793011487882,"level":"log","data":["="]}
+{"_e":"metro:client_log","_t":1793011505035,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011505036,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793011510601,"level":"log","data":["="]}
+{"_e":"metro:client_log","_t":1793011510750,"level":"log","data":["="]}
+{"_e":"metro:client_log","_t":1793011510867,"level":"log","data":["="]}
+{"_e":"metro:client_log","_t":1793011511017,"level":"log","data":["="]}
+{"_e":"metro:client_log","_t":1793012155367,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012155369,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012181884,"level":"log","data":["8"]}
+{"_e":"metro:client_log","_t":1793012252257,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012252258,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012258909,"level":"log","data":["5"]}
+{"_e":"metro:client_log","_t":1793012259058,"level":"log","data":["5"]}
+{"_e":"metro:client_log","_t":1793012259207,"level":"log","data":["5"]}
+{"_e":"metro:client_log","_t":1793012259340,"level":"log","data":["5"]}
+{"_e":"metro:bundling:failed","_t":1793012391871,"id":null,"message":"SyntaxError: /home/serlunrui/Documentos/react_native/calculator_app/src/app/hooks/useCalculator.ts: Missing semicolon. (171:5)\n\n  169 |         substractOperation,\n  170 |         calculateResult\n> 171 |     }calculateResult\n      |      ^\n  172 | }\n  173 |","importStack":null,"filename":"src/app/hooks/useCalculator.ts","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1793012404354,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012404355,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012542313,"level":"warn","data":["Route \"./constants/theme.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012542314,"level":"warn","data":["Route \"./hooks/useCalculator.ts\" is missing the required default export. Ensure a React component is exported as default."]}
+{"_e":"metro:client_log","_t":1793012552446,"level":"log","data":["8"]}
+{"_e":"metro:client_log","_t":1793012648452,"level":"log","data":["0"]}
+{"_e":"metro:client_log","_t":1793012650003,"level":"log","data":["8"]}
+{"_e":"metro:client_log","_t":1793012650419,"level":"log","data":["0"]}
+{"_e":"metro:client_log","_t":1793012657570,"level":"log","data":["4"]}
